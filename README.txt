@@ -1,4 +1,4 @@
-Exploration de données CatNat
+Exploration de données NOAA
 
 
 Projet perso pour apprendre à manipuler des données réelles de pertes 
